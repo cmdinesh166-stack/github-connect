@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Hub - Connected Developer Dashboard",
+  "description": "Connect your GitHub account to manage repositories, track issues and pull requests, explore commit activity, and inspect your GitHub profile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
